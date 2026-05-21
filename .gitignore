@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+.env
+config/settings.json
+config/credentials.json
+config/oauth_client_secret.json
+config/oauth_token.json
+
+output/
+temp/
+logs/*.log
+
+.venv/
+venv/
+env/
